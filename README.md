@@ -25,9 +25,10 @@ Provides a web app to login and connect your fitbit account to it to pull in all
 ## Mocks/Design
 Not a designer so I'll rely heavily on Tailwind to rescue me but will build out wireframes to show my ux process
 
-## Roadmad
+## Roadmap
 * Different providers in the futures to connect your account with eg (RunKeeper)
 * Allow the ability to enter your weight and summaries around these
+* Make is responsive (support desktop design)
 
 
 
